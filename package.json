@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/N-kapila/my-portfolio/issues"
   },
-  "homepage": "https://github.com/N-kapila/N-kapila.github.io",
+  "homepage": "http://N-kapila.github.io/N-kapila.github.io",
   "dependencies": {
     "concurrently": "^7.4.0",
     "cors": "^2.8.5",
